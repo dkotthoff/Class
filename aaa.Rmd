@@ -1,0 +1,34 @@
+---
+title: "Untitled"
+author: "Kotthoff"
+date: '2022-05-01'
+output: html_document
+---
+
+In the first week I learned about bias-variance tradeoff and basic formatting in markdown. 
+
+For the second week I learned about using visualization to look at and organize data, as well as transforming data into more useful variables.
+
+Linear regression and MSE were the main topics of week 3.
+
+Week 4 had us looking at logistic regression and confusion matrices.
+
+I studied GLMS in week 5, learning about poisson regression and gamma regression.
+
+Trees were brought in during week 6, where I learned about random forests and decision trees.
+
+Clustering was the interest of week 7, where we covered not only the idea behind clustering but also how to select the optimal number of clusters.
+
+The final week was about presenting and documenting data.
+
+
+
+
+
+
+
+
+
+
+
+
